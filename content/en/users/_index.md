@@ -45,7 +45,7 @@ If we are able to support your case, there will be two options:
    If there is a suitable one, we will contact the VO managers to join you to
    the VO and grant you the access to the resources attached to that VO.
 
-1. If there are no suitable VOs existing, we need to create a new VO for your
+2. If there are no suitable VOs existing, we need to create a new VO for your
    community. The procedure is as follows:
    * We will contact our provider and negotiate resources for you.
    * If there are providers happy to support you, we will sign SLA with you
